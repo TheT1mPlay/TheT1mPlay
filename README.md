@@ -1,1 +1,2 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&pause=1000&color=33B1F7&vCenter=true&width=435&lines=Telegram%3A+%40timrushik;Discord%3A+TimRush%239867)](https://t.me/timrushik)
+<img src="https://lanyard-profile-readme.vercel.app/api/1107672247986028596?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=Probably%20doing%20something%20else..."> 
